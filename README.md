@@ -7,8 +7,6 @@
 
 <h2 align="center"> Full-stack software engineer based in New York City </h2> 
  
- <br/>
- 
 <table align="center"><tr><td valign="top" width="100%">
   
 <div align="center">  
@@ -28,6 +26,8 @@
 
 </td></tr></table>  
 
+<br/>
+
 - 🔭 I’m currently working on Profile Site  
   
 
@@ -37,11 +37,22 @@
 - ❓ Ask me about anything related to MERN stack and related technologies or anything crypto  
   
 
-- ⚡ Fun fact: Noodles > Rice  
+- ⚡ Fun fact: Noodles > Rice   
+
+<br/> 
+
+<table align="center"><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ylindev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylindev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
-
-## Connect with me  
+ 
 <div align="center">
 <a href="https://github.com/https://github.com/YLinDev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,9 +60,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yong-lin-b7142a40/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
 
-<br/> 
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ylindev&&style=flat-square" align="center" />
