@@ -1,31 +1,16 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ylindev/ylindev/main/2359_Original.png" align="center" style="width: 100%" />
+<img src="https://github.com/YLinDev/YLinDev/blob/main/2359_Original.PNG" align="center" style="width: 20%" />
 </div>  
   
 
-# Hi, I'm Yong, a full-stack software engineer based in New York City.
-  
-<br/>
+<h1 align="center"> Hi, I'm Yong Lin </h1>
 
-- 🔭 I’m currently working on Profile Site  
-  
-
-- 🌱 I’m currently learning Solidity and TypeScript  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies or anything crypto  
-  
-
-- ⚡ Fun fact: Noodles > Rice  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
+<h2 align="center"> Full-stack software engineer based in New York City </h2> 
  
+ <br/>
+ 
+<table align="center"><tr><td valign="top" width="100%">
+  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -42,6 +27,17 @@
 </div>
 
 </td></tr></table>  
+
+- 🔭 I’m currently working on Profile Site  
+  
+
+- 🌱 I’m currently learning Solidity and TypeScript  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies or anything crypto  
+  
+
+- ⚡ Fun fact: Noodles > Rice  
 
 <br/>  
 
