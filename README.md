@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/YLinDev/YLinDev/blob/main/2359_Original.PNG" align="center" style="width: 20%" />
+<img src="2359_Original.PNG" align="center" style="width: 20%" />
 </div>  
   
 
@@ -43,15 +43,15 @@
 ### Projects
 
 <p>
-<a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/bubblemi.PNG" alt="BubbleMi Project"/></a>
+<a align="left" href="https://ylindev.github.io/BubbleMi_JS/" target="_blank"><img width="25%" src="bubblemi.png" alt="BubbleMi Project"/></a>
 </p>
 
 <p>
-<a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/magellan.PNG" alt="Magellan Project"/></a>
+<a align="left" href="https://magellan-wpae.onrender.com/" target="_blank"><img width="25%" src="magellan.png" alt="Magellan Project"/></a>
 </p>
 
 <p>
-<a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/findmi.PNG" alt="FindMi Project"/></a>
+<a align="left" href="https://findmi.onrender.com/" target="_blank"><img width="25%" src="findmi.png" alt="FindMi Project"/></a>
 </p>
 
 <br/>
