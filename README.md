@@ -40,6 +40,12 @@
 
 <br/> 
 
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi)](https://github.com/ylindev/BubbleMi)
+
+<br/>
+
 <table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ylindev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
