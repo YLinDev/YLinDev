@@ -42,7 +42,7 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi)](https://github.com/ylindev/BubbleMi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi_JS)](https://github.com/YLinDev/BubbleMi_JS)
 
 <br/>
 
