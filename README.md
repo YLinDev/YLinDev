@@ -42,9 +42,11 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi_JS)](https://github.com/YLinDev/BubbleMi_JS)
+<a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/bubblemi.PNG" alt="BubbleMi Project"/></a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=FindMi_FS)](https://github.com/YLinDev/FindMi_FS)
+<a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/magellan.PNG" alt="Magellan Project"/></a>
+
+<a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/findmi.PNG" alt="FindMi Project"/></a>
 
 <br/>
 
