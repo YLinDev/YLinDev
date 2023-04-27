@@ -42,11 +42,17 @@
 
 ### Projects
 
+<p>
 <a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/bubblemi.PNG" alt="BubbleMi Project"/></a>
+</p>
 
+<p>
 <a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/magellan.PNG" alt="Magellan Project"/></a>
+</p>
 
+<p>
 <a align="left" href="https://ylindev.github.io/BubbleMi_JS/"><img width="25%" src="https://github.com/YLinDev/YLinDev/blob/main/findmi.PNG" alt="FindMi Project"/></a>
+</p>
 
 <br/>
 
