@@ -42,7 +42,7 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi_JS)](https://github.com/YLinDev/BubbleMi_JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=BubbleMi_JS)](https://github.com/YLinDev/BubbleMi_J)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ylindev&repo=FindMi_FS)](https://github.com/YLinDev/FindMi_FS)
 
