@@ -31,7 +31,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on a personal project 
+- 🔭 I’m currently working on a personal web3 project 
   
 
 - 🌱 I’m currently learning Solidity and TypeScript  
