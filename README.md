@@ -60,7 +60,7 @@
 
 <br/>
 
-<table align="center"><tr><td valign="top" width="50%">
+<!-- <table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ylindev&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -70,15 +70,15 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   -->
  
 <div align="center">
-<a href="https://github.com/https://github.com/YLinDev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yong-lin-b7142a40/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://github.com/https://github.com/YLinDev" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 <br/>
