@@ -60,7 +60,7 @@
 
 <br/>
 
-<!-- <table align="center"><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ylindev&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -70,7 +70,7 @@
 
 </td></tr></table>  
 
-<br/>   -->
+<br/>  
  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yong-lin-b7142a40/" target="_blank">
