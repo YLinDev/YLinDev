@@ -58,7 +58,7 @@
 <a align="left" href="https://findmi.onrender.com/" target="_blank"><img width="25%" src="findmi.png" alt="FindMi Project"/></a>
 </p>
 
-<br/>
+<!-- <br/>
 
 <table align="center"><tr><td valign="top" width="50%">
 
@@ -70,7 +70,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   -->
  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yong-lin-b7142a40/" target="_blank">
