@@ -32,19 +32,6 @@
 
 <br/>
 
-- 🔭 I’m currently working on a personal web3 project 
-  
-
-- 🌱 I’m currently learning Blockchain Operating System (Near Protocol), Solidity, and TypeScript.  Also preparing for the ETHGlobal New York Hackathon.  
-  
-
-- ❓ Ask me about anything related to crypto, AI, and noodles  
-  
-
-- ⚡ Fun fact: Noodles > Rice   
-
-<br/> 
-
 ### Projects
 
 <p>
